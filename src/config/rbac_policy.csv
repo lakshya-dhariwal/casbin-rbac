@@ -1,0 +1,8 @@
+p, user, recommendation, gather
+p, user, irdai, gather
+p, underwriter, recommendation, consume
+p, underwriter, irdai, consume
+p, admin, recommendation, destroy
+p, admin, irdai, destroy
+g, underwriter, user
+g, admin, underwriter
